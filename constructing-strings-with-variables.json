@@ -1,0 +1,1 @@
+{"index.js":"// Example\nvar ourName = \"freeCodeCamp\";\nvar ourStr = \"Hello, our name is \" + ourName + \", how are you?\";\n\n// Only change code below this line\nvar myName = \"DanibotCode\";\nvar myStr = \"Hello, my name is \" + myName + \", how are you?\";\n\n"}
